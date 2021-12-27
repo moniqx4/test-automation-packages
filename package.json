@@ -5,5 +5,8 @@
   "repository": "https://github.com/moniqx4/test-automation-packages.git",
   "author": "Monica D. <moniqx4@gmail.com>",
   "license": "MIT",
-  "private": false
+  "private": false,
+  "publishConfig": {
+    "@moniqx4:registry": "https://npm.pkg.github.com"
+  }
 }
